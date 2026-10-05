@@ -1,0 +1,10 @@
+ucimlrepo>=0.0.7
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+mlxtend
+reportlab
+pillow
+certifi
